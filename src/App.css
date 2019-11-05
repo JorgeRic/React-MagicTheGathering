@@ -1,0 +1,28 @@
+h1, h2{
+  text-align: center
+}
+nav ul{
+  display: flex;
+  justify-content: center
+}
+ul li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li{
+  padding: 5px;
+  font-size: 20px;
+}
+.big{
+  height: 55vh;
+
+}
+
+.container{
+  max-width: 850px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly
+}
